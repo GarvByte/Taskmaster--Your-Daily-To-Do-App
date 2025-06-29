@@ -1,16 +1,4 @@
-# todo_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Taskmaster: Your Daily Tasks App
+This is ready to be published daily todo app made with Flutter and Dart. 
+A 24hrs timer that would tell you how much time is left for you to complete your tasks is also included in it with Dark and light mode both. 
+On sliding the tasks you can delete it. 
